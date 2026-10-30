@@ -1,10 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
+# 
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoList.Cli", "TodoList.Cli\TodoList.Cli.csproj", "{D58E13C6-DB1E-4981-ABEE-E2EE97F99CC4}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoList.Core", "TodoList.Core\TodoList.Core.csproj", "{180A3AF3-CCF3-464B-8200-0893E6C506E8}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoList.Tests", "TodoList.Tests\TodoList.Tests.csproj", "{8497C26F-5AF4-4C42-8B67-2B586B2B790A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,9 +19,5 @@ Global
 		{180A3AF3-CCF3-464B-8200-0893E6C506E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{180A3AF3-CCF3-464B-8200-0893E6C506E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{180A3AF3-CCF3-464B-8200-0893E6C506E8}.Release|Any CPU.Build.0 = Release|Any CPU
-		{8497C26F-5AF4-4C42-8B67-2B586B2B790A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8497C26F-5AF4-4C42-8B67-2B586B2B790A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8497C26F-5AF4-4C42-8B67-2B586B2B790A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8497C26F-5AF4-4C42-8B67-2B586B2B790A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
